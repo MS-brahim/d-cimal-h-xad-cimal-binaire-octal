@@ -1,0 +1,41 @@
+body {
+	background-image: url(binary.gif);
+	background-size: cover;
+}
+form{
+	margin-left: 300px;
+	margin-top: 160px;
+
+
+}
+input {
+	margin-left: 50px;
+    line-height: 29px
+}
+label {
+	color: #bbceacf2;
+	font-size: 30px;
+
+}
+#decimal{
+	margin-left: 107px;
+}
+#binaire {
+	margin-left: 120px;
+}
+#octal{
+	margin-left: 143px;
+}
+#button{
+	color: whitesmoke;
+	background-color: #5c4e8566;
+
+}
+h1{
+	padding-left: 250px;
+	color: #0ab50d;
+}
+h2{
+	padding-left: 403px;
+	color: #b54141;
+}
